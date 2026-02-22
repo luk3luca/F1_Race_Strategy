@@ -1,0 +1,25 @@
+Country,Location,EventName,EventDate,TrackLenght,NumTurns,RaceDistance,NumLaps,Traction,AsphaltGrip,AsphaltAbrasion,TrackEvolution,TyreStress,Braking,LateralLoad,Downforce,Soft,Medium,Hard
+Australia,Melbourne,Australian Grand Prix,2025-03-16,5.278,14,306.124,58,2,2,2,3,3,2,3,3,C5,C4,C3
+China,Shanghai,Chinese Grand Prix,2025-03-23,5.451,16,305.066,56,3,3,3,5,4,4,4,3,C4,C3,C2
+Japan,Suzuka,Japanese Grand Prix,2025-04-06,5.807,18,307.471,53,3,4,4,3,5,2,5,4,C3,C2,C1
+Bahrain,Sakhir,Bahrain Grand Prix,2025-04-13,5.412,15,308.238,57,4,3,5,4,3,4,3,3,C3,C2,C1
+Saudi Arabia,Jeddah,Saudi Arabian Grand Prix,2025-04-20,6.174,27,308.45,50,2,4,2,4,3,3,4,2,C5,C4,C3
+United States,Miami,Miami Grand Prix,2025-05-04,5.412,19,308.326,57,3,4,2,5,3,3,3,3,C5,C4,C3
+Italy,Imola,Emilia Romagna Grand Prix,2025-05-18,4.909,19,309.049,63,2,2,2,2,3,3,3,3,C6,C5,C4
+Monaco,Monaco,Monaco Grand Prix,2025-05-25,3.337,19,260.286,78,5,2,1,5,1,2,1,5,C6,C5,C4
+Spain,Barcelona,Spanish Grand Prix,2025-06-01,4.657,16,307.236,66,3,3,4,3,5,3,5,4,C3,C2,C1
+Canada,Montréal,Canadian Grand Prix,2025-06-15,4.361,14,305.27,70,4,2,1,5,3,5,1,1,C6,C5,C4
+Austria,Spielberg,Austrian Grand Prix,2025-06-29,4.318,10,306.452,71,2,3,3,3,3,3,3,3,C5,C4,C3
+United Kingdom,Silverstone,British Grand Prix,2025-07-06,5.891,18,306.198,52,3,4,2,2,5,2,5,4,C4,C3,C2
+Belgium,Spa-Francorchamps,Belgian Grand Prix,2025-07-27,7.004,19,308.052,44,4,3,3,3,5,4,5,2,C4,C3,C2
+Hungary,Budapest,Hungarian Grand Prix,2025-08-03,4.381,14,306.63,70,4,3,3,4,3,3,3,5,C5,C4,C3
+Netherlands,Zandvoort,Dutch Grand Prix,2025-08-31,4.259,14,306.587,72,3,3,3,4,5,3,4,4,C4,C3,C2
+Italy,Monza,Italian Grand Prix,2025-09-07,5.793,11,306.72,53,3,3,2,4,3,4,2,1,C5,C4,C3
+Azerbaijan,Baku,Azerbaijan Grand Prix,2025-09-21,6.003,20,306.049,51,5,2,1,5,3,4,1,2,C6,C5,C4
+Singapore,Marina Bay,Singapore Grand Prix,2025-10-05,4.94,19,306.143,62,4,3,3,5,2,5,2,5,C5,C4,C3
+United States,Austin,United States Grand Prix,2025-10-19,5.513,20,308.728,56,4,3,3,4,4,3,4,4,C4,C3,C1
+Mexico,Mexico City,Mexico City Grand Prix,2025-10-26,4.304,17,305.354,71,3,2,2,5,2,3,2,5,C5,C4,C3
+Brazil,São Paulo,São Paulo Grand Prix,2025-11-09,4.309,15,305.879,71,3,3,2,5,3,3,3,4,C5,C4,C3
+United States,Las Vegas,Las Vegas Grand Prix,2025-11-22,6.201,17,309.958,50,2,1,2,5,4,3,2,1,C5,C4,C3
+Qatar,Lusail,Qatar Grand Prix,2025-11-30,5.419,16,308.611,57,3,3,2,4,5,3,5,4,C3,C2,C1
+United Arab Emirates,Yas Island,Abu Dhabi Grand Prix,2025-12-07,5.281,16,306.183,58,4,3,3,4,3,4,3,3,C5,C4,C3
